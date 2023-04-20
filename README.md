@@ -4,3 +4,6 @@
 
 ## segmentation
 ![image](images/segmentation.png)
+
+## clustering
+![image](images/clustering.png)
