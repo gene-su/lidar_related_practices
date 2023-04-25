@@ -7,3 +7,6 @@
 
 ## clustering
 ![image](images/clustering.png)
+
+## obstacle detection
+![image](images/obstacle_detection.gif)
